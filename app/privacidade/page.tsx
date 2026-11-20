@@ -1,0 +1,1 @@
+export default function Privacy(){return <main className="simple"><a href="/" className="text-link">Voltar ao início</a><h1>Privacidade</h1><p>A política de privacidade será disponibilizada pelo estúdio antes da coleta de dados pessoais nesta plataforma.</p></main>}
